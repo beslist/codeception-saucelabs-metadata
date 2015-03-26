@@ -1,8 +1,6 @@
 <?php
 namespace Codeception\Extension;
 
-require_once(PATH_ROOT . '/vendor/autoload.php');
-
 class SaucelabsMetadata extends \Codeception\Platform\Extension
 {
 
